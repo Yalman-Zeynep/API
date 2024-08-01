@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\bookDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|c:\\users\\lenovo\\source\\repos\\bookdemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|c:\\users\\lenovo\\documents\\github\\api\\bookdemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|c:\\users\\lenovo\\source\\repos\\bookdemo\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|c:\\users\\lenovo\\documents\\github\\api\\bookdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|c:\\users\\lenovo\\documents\\github\\api\\bookdemo\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|solutionrelative:data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|c:\\users\\lenovo\\source\\repos\\bookdemo\\bookdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|c:\\users\\lenovo\\documents\\github\\api\\bookdemo\\bookdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|solutionrelative:bookdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|c:\\users\\lenovo\\source\\repos\\bookdemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|c:\\users\\lenovo\\documents\\github\\api\\bookdemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA6ADDF1-B800-473F-8152-7A17663281C9}|bookDemo.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,28 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:07:29.675Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\bookDemo\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\bookDemo\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAYwFkAAAAUAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAqwGsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T12:15:35.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\bookDemo\\Data\\ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\Data\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\bookDemo\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\Data\\ApplicationContext.cs",
               "RelativeToolTip": "Data\\ApplicationContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,24 +73,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "bookDemo",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\bookDemo\\bookDemo.csproj",
+              "DocumentIndex": 3,
+              "Title": "bookDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\bookDemo.csproj",
               "RelativeDocumentMoniker": "bookDemo.csproj",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\bookDemo\\bookDemo.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\bookDemo.csproj",
               "RelativeToolTip": "bookDemo.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-01T12:06:57.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\bookDemo\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\bookDemo\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\API\\bookDemo\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
